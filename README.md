@@ -1,2 +1,2 @@
 # HIM-Cyber-Dashboard
-Modernes Cybersecurity Dashboard mit Terminal-Design, KI-Chat, Systemüberwachung und futuristischem Interface.
+Futuristisches Cybersecurity Dashboard mit Terminal-Design, KI-Chat, Systemüberwachung und interaktivem Security-Interface.
